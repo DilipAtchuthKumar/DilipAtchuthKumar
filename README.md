@@ -11,9 +11,9 @@
 - [Introduction to Cyber Security Learning Path](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-GWWH4ZYYY1.png)
 - [Introduction to Cybersecurity](https://www.credly.com/badges/39268d85-64d7-418f-95bb-56bf4629a93a/linked_in_profile)
 
-<h2>Badges:</h2>
-<h5>TryHackMe Profile:</h5>
-<img src="https://tryhackme-badges.s3.amazonaws.com/AtchuthKumar.png" alt="TryHackMe">
+<h2>🏅 Badges:</h2>
+    <h5>TryHackMe Profile:</h5>
+    <img src="https://tryhackme-badges.s3.amazonaws.com/AtchuthKumar.png" alt="TryHackMe">
 
 <h2>🌐 Connect with me:</h2>
 
