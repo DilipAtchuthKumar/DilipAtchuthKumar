@@ -3,6 +3,11 @@
 <h2>ℹ️ About Me:</h2>
 <p>Passionate computer science student with a keen interest in the field of cyber security. Currently expanding my knowledge and honing my skills to effectively navigate the ever-evolving landscape of cybersecurity threats. I am actively learning various techniques, tools, and best practices to identify vulnerabilities, mitigate risks, and protect digital assets. With a solid foundation in computer science principles, I am eager to contribute to safeguarding organizations from cyber threats, ensuring the confidentiality, integrity, and availability of critical information.🧑🏼‍💻</p>
 
+<h2>🧑🏼‍💻 Projects:</h2>
+
+- [Calculator](https://github.com/DilipAtchuthKumar/Calculator)
+- [Diploma Percentage Calculator](https://github.com/DilipAtchuthKumar/Diploma-Percentage-Calculator)
+
 <h2>📄 Certifications:</h2>
 
 - [Practical Ethical Hacking](https://drive.google.com/file/d/1TpC_ubiwMD4fm-NCVynTWiRI9IuppP37/view?usp=sharing)
