@@ -5,6 +5,7 @@
 
 <h2>🧑🏼‍💻 Projects:</h2>
 
+- [Instagram Clone](https://github.com/DilipAtchuthKumar/Instagram-Clone.git)
 - [Calculator](https://github.com/DilipAtchuthKumar/Calculator)
 - [Diploma Percentage Calculator](https://github.com/DilipAtchuthKumar/Diploma-Percentage-Calculator)
 
