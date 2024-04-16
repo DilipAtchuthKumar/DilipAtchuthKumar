@@ -1,7 +1,7 @@
 # Hi, I'm Dilip Atchuth Kumar Pulamarasetty!
 
 ## ℹ️ About Me:
-<p>Passionate computer science student with a keen interest in the field of cyber security. Currently expanding my knowledge and honing my skills to effectively navigate the ever-evolving landscape of cybersecurity threats. I am actively learning various techniques, tools, and best practices to identify vulnerabilities, mitigate risks, and protect digital assets. With a solid foundation in computer science principles, I am eager to contribute to safeguarding organizations from cyber threats, ensuring the confidentiality, integrity, and availability of critical information.🧑🏼‍💻</p>
+<pAs a dedicated second-year Cybersecurity undergraduate, my focus lies in mastering offensive tactics to simulate real-world cyber threats. Proficient in penetration testing frameworks 🔍, social engineering techniques 🎭, and exploit development 💻. Actively refining skills through hands-on engagement with diverse operating systems 💻, network architectures 🌐, and adversarial simulation exercises 🛡️. Seasoned in participating in Capture The Flag challenges to sharpen attack methodologies and enhance evasion techniques 🚀. Actively seeking opportunities to apply my expertise in red teaming to uncover vulnerabilities and fortify defenses 🔒.</p>
 
 ## 🧑🏼‍💻 Projects:
 
