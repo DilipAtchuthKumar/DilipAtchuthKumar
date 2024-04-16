@@ -1,7 +1,7 @@
 # Hi, I'm Dilip Atchuth Kumar Pulamarasetty!
 
 ## ℹ️ About Me:
-<pAs a dedicated second-year Cybersecurity undergraduate, my focus lies in mastering offensive tactics to simulate real-world cyber threats. Proficient in penetration testing frameworks 🔍, social engineering techniques 🎭, and exploit development 💻. Actively refining skills through hands-on engagement with diverse operating systems 💻, network architectures 🌐, and adversarial simulation exercises 🛡️. Seasoned in participating in Capture The Flag challenges to sharpen attack methodologies and enhance evasion techniques 🚀. Actively seeking opportunities to apply my expertise in red teaming to uncover vulnerabilities and fortify defenses 🔒.</p>
+<p>As a dedicated second-year Cybersecurity undergraduate, my focus lies in mastering offensive tactics to simulate real-world cyber threats. Proficient in penetration testing frameworks 🔍, social engineering techniques 🎭, and exploit development 💻. Actively refining skills through hands-on engagement with diverse operating systems 💻, network architectures 🌐, and adversarial simulation exercises 🛡️. Seasoned in participating in Capture The Flag challenges to sharpen attack methodologies and enhance evasion techniques 🚀. Actively seeking opportunities to apply my expertise in red teaming to uncover vulnerabilities and fortify defenses 🔒.</p>
 
 ## 🧑🏼‍💻 Projects:
 
